@@ -135,7 +135,7 @@ add chain=IPS-EVENT action=log log-prefix="IPS-EVENT:" comment="Custom hook"
 
 ## 📄 License
 
-MIT — see `LICENSE` for details.
+Apache-2.0 — see `LICENSE` for details.
 
 ---
 
